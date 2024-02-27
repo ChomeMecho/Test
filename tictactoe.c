@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "tictactoe.h"
+
 int main() {
     printf("Enter the size of field: ");
     int size;
