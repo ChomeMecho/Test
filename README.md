@@ -1,7 +1,7 @@
 # Piskvorky
 
 Simple implementation of Tic-tac-toe game in C
-
+changement !
 Obsah:
 * tictactoe.h - header file
 * tictactoe.c - implementation
